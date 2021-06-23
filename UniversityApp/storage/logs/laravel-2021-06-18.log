@@ -1,0 +1,20 @@
+[2021-06-18 12:00:19] local.ERROR: Cannot redeclare isExists() (previously declared in C:\xampp\htdocs\UniversityApp\storage\framework\views\869a80c706b1d6aac2395ec76e36bd9041e809b6.php:6) {"userId":3,"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot redeclare isExists() (previously declared in C:\\xampp\\htdocs\\UniversityApp\\storage\\framework\\views\\869a80c706b1d6aac2395ec76e36bd9041e809b6.php:6) at C:\\xampp\\htdocs\\UniversityApp\\storage\\framework\\views\\8fa9f4c65018fddea834530fc3b2fae1d97f517a.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2021-06-18 12:00:25] local.ERROR: Cannot redeclare isExists() (previously declared in C:\xampp\htdocs\UniversityApp\storage\framework\views\869a80c706b1d6aac2395ec76e36bd9041e809b6.php:6) {"userId":3,"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot redeclare isExists() (previously declared in C:\\xampp\\htdocs\\UniversityApp\\storage\\framework\\views\\869a80c706b1d6aac2395ec76e36bd9041e809b6.php:6) at C:\\xampp\\htdocs\\UniversityApp\\storage\\framework\\views\\8fa9f4c65018fddea834530fc3b2fae1d97f517a.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2021-06-18 12:00:53] local.ERROR: Cannot redeclare isExists() (previously declared in C:\xampp\htdocs\UniversityApp\storage\framework\views\869a80c706b1d6aac2395ec76e36bd9041e809b6.php:6) {"userId":3,"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot redeclare isExists() (previously declared in C:\\xampp\\htdocs\\UniversityApp\\storage\\framework\\views\\869a80c706b1d6aac2395ec76e36bd9041e809b6.php:6) at C:\\xampp\\htdocs\\UniversityApp\\storage\\framework\\views\\8fa9f4c65018fddea834530fc3b2fae1d97f517a.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2021-06-18 12:00:55] local.ERROR: Cannot redeclare isExists() (previously declared in C:\xampp\htdocs\UniversityApp\storage\framework\views\869a80c706b1d6aac2395ec76e36bd9041e809b6.php:6) {"userId":3,"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot redeclare isExists() (previously declared in C:\\xampp\\htdocs\\UniversityApp\\storage\\framework\\views\\869a80c706b1d6aac2395ec76e36bd9041e809b6.php:6) at C:\\xampp\\htdocs\\UniversityApp\\storage\\framework\\views\\8fa9f4c65018fddea834530fc3b2fae1d97f517a.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2021-06-18 12:00:56] local.ERROR: Cannot redeclare isExists() (previously declared in C:\xampp\htdocs\UniversityApp\storage\framework\views\869a80c706b1d6aac2395ec76e36bd9041e809b6.php:6) {"userId":3,"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot redeclare isExists() (previously declared in C:\\xampp\\htdocs\\UniversityApp\\storage\\framework\\views\\869a80c706b1d6aac2395ec76e36bd9041e809b6.php:6) at C:\\xampp\\htdocs\\UniversityApp\\storage\\framework\\views\\8fa9f4c65018fddea834530fc3b2fae1d97f517a.php:18)
+[stacktrace]
+#0 {main}
+"} 

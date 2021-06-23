@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\UniversityApp\resources\views/admin/lang/en/auth/password/reset.blade.php ENDPATH**/ ?>
